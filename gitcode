@@ -1,0 +1,9 @@
+echo "# database_with_python" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+Git remote add origin https://github.com/deXbeulah/database_with_python.git
+
+git push -u origin master
+git remote add origin https://github.com/deXbeulah/database_with_python.git
+git push -u origin master
